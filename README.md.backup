@@ -1,0 +1,23 @@
+# Python Projects: Collection of Programs
+> Various python programs.
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Contact](#contact)
+
+## General info
+The purpose of the repository is to apply the coding language learnt so far to create programs.
+
+This is a collection of python programs that I have code to exercise.
+
+## Screenshots
+![Hello World](./img/helloWorld.JPG)
+
+## Technologies
+* Amazon Corretto - version 11 (Open Java Development Kit)
+* IntelliJ IDEA - version 2019.3.1 (Community Edition)
+
+## Contact
+Created by [Francois Botha](https://github.com/francois-botha) - feel free to contact me!
